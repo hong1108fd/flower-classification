@@ -188,6 +188,7 @@ python train.py --model resnet18 --pretrained --mode train --epochs 0
 ### 模型权重
 
 训练好的模型权重保存在 `./outputs/` 目录：
+
 下载权重链接：https://drive.google.com/drive/folders/1flxIA1xVWb5ghjsgmmNLSnpZ2YYtqqUV?usp=sharing
 ```
 outputs/
